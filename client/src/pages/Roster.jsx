@@ -14,12 +14,12 @@ function Roster() {
   });
 
   const teams = [
-    { id: 1, name: "leafs", logo: "/src/assets/leafs.svg" },
-    { id: 2, name: "habs", logo: "/src/assets/habs.svg" },
-    { id: 3, name: "redwings", logo: "/src/assets/redwings.svg" },
-    { id: 4, name: "bruins", logo: "/src/assets/bruins.svg" },
-    { id: 5, name: "rangers", logo: "/src/assets/rangers.svg" },
-    { id: 6, name: "blackhawks", logo: "/src/assets/blackhawks.svg" },
+    { id: 1, name: "leafs", logo: "/public/leafs.svg" },
+    { id: 2, name: "habs", logo: "/public/habs.svg" },
+    { id: 3, name: "redwings", logo: "/public/redwings.svg" },
+    { id: 4, name: "bruins", logo: "/public/bruins.svg" },
+    { id: 5, name: "rangers", logo: "/public/rangers.svg" },
+    { id: 6, name: "blackhawks", logo: "/public/blackhawks.svg" },
   ];
 
   useEffect(() => {

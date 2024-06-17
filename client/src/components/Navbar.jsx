@@ -17,10 +17,10 @@ function BrandExample() {
       </div> */}
       <Navbar className="navbar-color">
         <Container className="d-flex justify-content-between align-items-center navbar-padding">
-          <Navbar.Brand href="/home" className="center-content">
+          <Navbar.Brand href="/" className="center-content">
             <img
               alt=""
-              src="/src/assets/logo.svg"
+              src="/public/logo.svg"
               width="55"
               height="55"
               className="d-inline-block align-top"
