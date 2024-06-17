@@ -29,7 +29,7 @@ function Roster() {
       setIsLoading(true);
       try {
         const response = await axios.get(
-          `http://localhost:3500/api/${selectedTeam.name}`
+          `https://slapscored-live.onrender.com/api/${selectedTeam.name}`
         );
         console.log("API Response for", selectedTeam.name, ":", response.data);
         const { forwards, defensemen, goalies } = response.data.roster;

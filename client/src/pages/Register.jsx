@@ -17,7 +17,7 @@ function Register() {
   const onSubmit = async (data) => {
     try {
       const response = await axios.post(
-        "http://localhost:3500/auth/register",
+        "https://slapscored-live.onrender.com/auth/register",
         data
       );
       if (response.status === 201) {

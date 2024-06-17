@@ -17,7 +17,7 @@ function Login() {
   const onSubmit = async (data) => {
     try {
       const response = await axios.post(
-        "http://localhost:3500/auth/login",
+        "https://slapscored-live.onrender.com/auth/login",
         data
       );
       if (response.status === 201) {
