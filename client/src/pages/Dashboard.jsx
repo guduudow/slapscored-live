@@ -22,7 +22,7 @@ function Dashboard() {
               <div className="profile">
                 <img
                   alt="generic man with glasses"
-                  src="public/man.jpg"
+                  src="/man.jpg"
                   width="100"
                   height="100"
                   className="man"
@@ -41,7 +41,7 @@ function Dashboard() {
                   <div className="badge two">
                     <img
                       alt="a hockey mask"
-                      src="public/hockey_mask.svg"
+                      src="/hockey_mask.svg"
                       width="35"
                       height="35"
                       className="mask"
@@ -50,7 +50,7 @@ function Dashboard() {
                   <div className="badge three">
                     <img
                       alt="a trophy"
-                      src="public/trophy.svg"
+                      src="/trophy.svg"
                       width="35"
                       height="35"
                       className="trophy"
@@ -59,7 +59,7 @@ function Dashboard() {
                   <div className="badge four">
                     <img
                       alt="a handshake"
-                      src="public/handshake.svg"
+                      src="/handshake.svg"
                       width="35"
                       height="35"
                       className="handshake"
@@ -78,7 +78,7 @@ function Dashboard() {
                     <div className="plus-box">
                       <img
                         alt="a plus sign"
-                        src="public/plus.svg"
+                        src="/plus.svg"
                         width="50"
                         height="50"
                         className="plus-sign"
@@ -166,7 +166,7 @@ function Dashboard() {
             <div className="spheres">
               <img
                 alt="settings icon"
-                src="public/help.svg"
+                src="/help.svg"
                 width="90"
                 height="90"
                 className="settings"
@@ -178,7 +178,7 @@ function Dashboard() {
             <div className="spheres">
               <img
                 alt="settings icon"
-                src="public/info.svg"
+                src="/info.svg"
                 width="90"
                 height="90"
                 className="settings"
@@ -190,7 +190,7 @@ function Dashboard() {
             <div className="spheres">
               <img
                 alt="settings icon"
-                src="public/gear.svg"
+                src="/gear.svg"
                 width="90"
                 height="90"
                 className="settings"

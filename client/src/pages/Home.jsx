@@ -14,7 +14,7 @@ function Home() {
           <Col>
             <img
               alt="silhouette of an ice hockey player"
-              src="public/silhouette-hockey.svg"
+              src="/silhouette-hockey.svg"
               width="453"
               height="651"
               className="hockeyguy"
@@ -28,7 +28,7 @@ function Home() {
             <div className="sphere">
               <img
                 alt="standings in 1 2 and 3"
-                src="public/compete.svg"
+                src="/compete.svg"
                 width="100"
                 height="100"
                 className="compete"
@@ -40,7 +40,7 @@ function Home() {
             <div className="sphere">
               <img
                 alt="strategy board"
-                src="public/strategy.svg"
+                src="/strategy.svg"
                 width="90"
                 height="90"
                 className="compete"
@@ -52,7 +52,7 @@ function Home() {
             <div className="sphere">
               <img
                 alt="man celebrating"
-                src="public/celebrate.svg"
+                src="/celebrate.svg"
                 width="100"
                 height="100"
                 className="compete"

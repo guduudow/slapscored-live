@@ -20,7 +20,7 @@ function BrandExample() {
           <Navbar.Brand href="/" className="center-content">
             <img
               alt=""
-              src="public/logo.svg"
+              src="/logo.svg"
               width="55"
               height="55"
               className="d-inline-block align-top"
